@@ -28,3 +28,8 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
+
+# Webpack bundle
+public/fonts
+public/javascripts
+public/stylesheets/app.css
